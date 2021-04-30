@@ -1,0 +1,88 @@
+/*DROP TABLE IF EXISTS JAGUAR;
+CREATE TABLE Jaguar(
+        Z_JAG_MSN INTEGER,
+        Z_JAG_LAN VARCHAR (50),
+        Z_JAG_STD VARCHAR (50),
+        Z_JAG_VER VARCHAR (50),
+        Z_JAG_RAN INTEGER,
+        Z_JAG_CAI VARCHAR (50),
+        Z_JAG_CED VARCHAR (50),
+);*/
+
+INSERT INTO Jaguar values (9482, 'A', 'ST5', 'NKS05', 18, 'DKS15FW', '27.08.2019  05:46:00')
+INSERT INTO Jaguar values (9304, 'H', 'ST1', 'UEA01', 25, 'DKS15FW', '27.08.2019  05:46:00')
+INSERT INTO Jaguar values (9392, 'T', 'ST5', 'CCM02', 2, 'DKS15FW', '27.08.2019  05:46:00')
+INSERT INTO Jaguar values (9371, 'C', 'ST5', 'CES15', 42, 'DKS15FW', '27.08.2019  05:46:00')
+
+
+INSERT INTO Jaguar values (9482, 'A', 'ST5', 'NKS05', 18, 'DKS15C46', '27.08.2019  05:46:00')
+INSERT INTO Jaguar values (9304, 'H', 'ST1', 'UEA01', 25, 'DKS15C46', '27.08.2019  05:46:00')
+INSERT INTO Jaguar values (9392, 'T', 'ST5', 'CCM02', 2, 'DKS15C46', '27.08.2019  05:46:00')
+INSERT INTO Jaguar values (9371, 'C', 'ST5', 'CES15', 42, 'DKS15C46', '27.08.2019  05:46:00')
+
+INSERT INTO Jaguar values (9482, 'A', 'ST5', 'NKS05', 18, 'DKS15DBH', '27.08.2019  05:46:00')
+INSERT INTO Jaguar values (9304, 'H', 'ST1', 'UEA01', 25, 'DKS15DBH', '27.08.2019  05:46:00')
+INSERT INTO Jaguar values (9392, 'T', 'ST5', 'CCM02', 2, 'DKS15DBH', '27.08.2019  05:46:00')
+INSERT INTO Jaguar values (9371, 'C', 'ST5', 'CES15', 42, 'DKS15DBH', '27.08.2019  05:46:00')
+
+INSERT INTO Jaguar values (9482, 'A', 'ST5', 'NKS05', 18, 'DK-S18/19', '27.08.2019  05:46:00')
+INSERT INTO Jaguar values (9304, 'H', 'ST1', 'UEA01', 25, 'DK-S18/19', '27.08.2019  05:46:00')
+INSERT INTO Jaguar values (9392, 'T', 'ST5', 'CCM02', 2, 'DK-S18/19', '27.08.2019  05:46:00')
+INSERT INTO Jaguar values (9371, 'C', 'ST5', 'CES15', 42, 'DK-S18/19', '27.08.2019  05:46:00')
+
+INSERT INTO Jaguar values (9482, 'A', 'ST5', 'NKS05', 18, 'DK-S-Satz', '27.08.2019  05:46:00')
+INSERT INTO Jaguar values (9304, 'H', 'ST1', 'UEA01', 25, 'DK-S-Satz', '27.08.2019  05:46:00')
+INSERT INTO Jaguar values (9392, 'T', 'ST5', 'CCM02', 2, 'DK-S-Satz', '27.08.2019  05:46:00')
+INSERT INTO Jaguar values (9371, 'C', 'ST5', 'CES15', 42, 'DK-S-Satz', '27.08.2019  05:46:00')
+
+
+INSERT INTO Jaguar values (9482, 'A', 'ST5', 'NKS05', 18, 'DKS15SSLR', '27.08.2019  05:46:00')
+INSERT INTO Jaguar values (9304, 'H', 'ST1', 'UEA01', 25, 'DKS15SSLR', '27.08.2019  05:46:00')
+INSERT INTO Jaguar values (9392, 'T', 'ST5', 'CCM02', 2, 'DKS15SSLR', '27.08.2019  05:46:00')
+INSERT INTO Jaguar values (9371, 'C', 'ST5', 'CES15', 42, 'DKS15SSLR', '27.08.2019  05:46:00')
+
+/*INSERT INTO Jaguar values (9482, 'A', 'ST5', 'NKS05', 18, 'DK-Cone_HAM', '27.08.2019  05:46:00')
+INSERT INTO Jaguar values (9304, 'H', 'ST1', 'UEA01', 25, 'DK-Cone_HAM', '27.08.2019  05:46:00')
+INSERT INTO Jaguar values (9392, 'T', 'ST5', 'CCM02', 2, 'DK-Cone_HAM', '27.08.2019  05:46:00')
+INSERT INTO Jaguar values (9371, 'C', 'ST5', 'CES15', 42, 'DK-Cone_HAM', '27.08.2019  05:46:00')*/
+
+/* REAL MSN - MSN 10140 */
+INSERT INTO Jaguar values (10140, 'A', 'ST2', 'NKS05', 114, 'DKS15SS', '17.02.2020 17:55')
+INSERT INTO Jaguar values (10140, 'A', 'ST2', 'NKS05', 114, 'DKS15FW', '17.02.2020 17:55')
+INSERT INTO Jaguar values (10140, 'A', 'ST2', 'NKS05', 114, 'DKS15DBH', '17.02.2020 17:55')
+INSERT INTO Jaguar values (10140, 'A', 'ST2', 'NKS05', 114, 'DK-S-Satz', '17.02.2020 17:55')
+INSERT INTO Jaguar values (10140, 'A', 'ST2', 'NKS05', 114, 'DK-S18/19', '17.02.2020 17:55')
+/*INSERT INTO Jaguar values (10140, 'A', 'ST2', 'NKS05', 114, 'DK-Cone_HAM', '17.02.2020 17:55')*/
+INSERT INTO Jaguar values (10140, 'A', 'ST2', 'NKS05', 114, 'DK-BF-ETKFT', '17.02.2020 17:55')
+						
+
+INSERT INTO Jaguar values (10140, 'A', 'ST2', 'DAL01', 114, 'DKS15SS', '17.02.2020 17:55')
+INSERT INTO Jaguar values (10140, 'A', 'ST2', 'DAL01', 114, 'DKS15FW', '17.02.2020 17:55')
+INSERT INTO Jaguar values (10140, 'A', 'ST2', 'DAL01', 114, 'DKS15DBH', '17.02.2020 17:55')
+INSERT INTO Jaguar values (10140, 'A', 'ST2', 'DAL01', 114, 'DK-S-Satz', '17.02.2020 17:55')
+INSERT INTO Jaguar values (10140, 'A', 'ST2', 'DAL01', 114, 'DK-S18/19', '17.02.2020 17:55')
+/*INSERT INTO Jaguar values (10140, 'A', 'ST2', 'DAL01', 114, 'DK-Cone_HAM', '17.02.2020 17:55')*/
+INSERT INTO Jaguar values (10140, 'A', 'ST2', 'DAL01', 114, 'DK-BF-ETKFT', '17.02.2020 17:55')
+		
+
+
+DROP TABLE IF EXISTS JAGUAR_MAP
+CREATE TABLE JAGUAR_MAP(
+        JAGUAR_CACODE VARCHAR (50),
+        CICO_CACODE VARCHAR (50)
+);
+
+INSERT INTO JAGUAR_MAP values ('BF-ETKFT','DH545')
+INSERT INTO JAGUAR_MAP values ('DK-Cone_HAM','DP200')
+INSERT INTO JAGUAR_MAP values ('DK-FD200_DO','FD200')
+INSERT INTO JAGUAR_MAP values ('DK-FD316_DO','FD316')
+INSERT INTO JAGUAR_MAP values ('DKS15C46','DH440')
+INSERT INTO JAGUAR_MAP values ('DKS15DBH','DH480')
+INSERT INTO JAGUAR_MAP values ('DKS15FW','DH460')
+INSERT INTO JAGUAR_MAP values ('DKS15SSLR','DH370')
+INSERT INTO JAGUAR_MAP values ('DK-S18/19','DH550')
+INSERT INTO JAGUAR_MAP values ('DK-S-Satz','SW')
+
+select * from Jaguar;
+
+
